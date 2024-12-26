@@ -4,9 +4,9 @@
 
 # Date :05.10.2024
 
-# Name:SATHISH.B
+# Name:DINESH.S
 
-# Register No:24900077
+# Register No:24900543
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -38,8 +38,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-developed by:SATHISH.B
-register no:24900077
+developed by:DINESH.S
+register no:24900543
 
 import numpy as np
 import math
